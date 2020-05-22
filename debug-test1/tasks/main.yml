@@ -1,4 +1,0 @@
----
-- name: debug msg1
-  debug:
-    msg: {{ debug_msg | default('-undefined1-') }}
