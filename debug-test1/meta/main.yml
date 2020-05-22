@@ -1,0 +1,12 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: jondkelley
+  description: test1
+  company: "test"
+  license: "test"
+  min_ansible_version: 2.9.9
+  platforms: []
+  galaxy_tags:
+    - test
